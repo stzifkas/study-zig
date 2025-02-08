@@ -1,0 +1,21 @@
+# Ignore build artifacts
+zig-cache/
+zig-out/
+
+# Ignore executables
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*~
